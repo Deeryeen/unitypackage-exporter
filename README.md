@@ -1,4 +1,4 @@
-# unitypackage-exporter
+# unitypackage-extractor
 A python script that can extract .unitypackage files. It's simple and works with most newer instances of python3 (3.8 and up) without any required modules.
 
 Usage: `python3 main.py <yourfile.unitypackage>`
